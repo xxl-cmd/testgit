@@ -2,3 +2,6 @@ Hello World
 hello world 2
 hello world 3
 bugFix
+text1
+text2
+text3
